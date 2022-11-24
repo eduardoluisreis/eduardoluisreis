@@ -1,4 +1,4 @@
-# :man: I'm Eduardo Luís Ferreira Reis!
+# :man: I'm Eduardo Luís Ferreira Reis! Student of Systems Analysis and Development.
 
 #### :computer: I'm a junior backend development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
 
