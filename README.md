@@ -26,6 +26,7 @@
     <a href="mailto:eduardo@eduardoreis.dev.br" target="_blank"><img align="center" alt="gmail" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank"></a>
     
   ![Snake animation](https://github.com/eduardoluisreis/eduardoluisreis/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
 
 
