@@ -25,7 +25,7 @@
     <a href="https://github.com/eduardoluisreis" target="_blank"><img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"></a>
     <a href="mailto:eduardo@eduardoreis.dev.br" target="_blank"><img align="center" alt="gmail" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank"></a>
     
-    ![Snake animation](https://github.com/eduardoluisreis/eduardoluisreis/blob/main/.github/workflows/snake.yml)
+    ![Snake animation](https://github.com/eduardoluisreis/eduardoluisreis/blob/dist/github-contribution-grid-snake.svg)
   </div>
 
 
