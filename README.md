@@ -28,7 +28,7 @@
 
 <div style="display:inline_block"><br>
       <a href="https://www.linkedin.com/in/eduardo-luis-ferreira-reis/" target="_blank"><img align="center" alt="linkedin" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
-    <a href="https://github.com/eduardoluisreis" target="_blank"><img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"></a>
+    <a href="https://github.com/eduardoluisreis" target="_blank"><img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-color.svg" target="_blank"></a>
     <a href="mailto:eduardo@eduardoreis.dev.br" target="_blank"><img align="center" alt="gmail" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank"></a>
     
   ![Snake animation](https://github.com/eduardoluisreis/eduardoluisreis/blob/output/github-contribution-grid-snake.svg)
