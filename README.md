@@ -1,6 +1,9 @@
 # :man: "One step forward and you are no longer in the same place".
 
+<div align="left">
 #### :computer: I'm a junior backend development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
+  </div>
+ 
 
 <div align="center">
   <a href="https://github.com/eduardoluisreis">
