@@ -4,11 +4,11 @@
 
 ### Languages , S.O's & Tools 🛠
 
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=js&logoColor=yellow) ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=violet) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=js&logoColor=yellow) ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=green) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian) ![Slackware](https://img.shields.io/badge/-Slackware-05122A?style=flat&logo=slackware) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  
 
 
 
