@@ -4,7 +4,8 @@
 
 ### Languages and frameworks i'm learning | S.O's and Tools 🛠
 
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=js&logoColor=yellow) ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=green) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=yellow)
+<!-- ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=js&logoColor=yellow) -->
+![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=green) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) <!-- ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=yellow) -->
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian) ![Slackware](https://img.shields.io/badge/-Slackware-05122A?style=flat&logo=slackware) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
 
