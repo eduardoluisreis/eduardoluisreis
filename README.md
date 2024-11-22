@@ -1,6 +1,6 @@
 # :man: "One step forward and you are no longer in the same place".
 
-#### :computer: I'm a junior backend development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
+<!--#### :computer: I'm a junior backend development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )-->
 
 ### Languages and frameworks i'm learning | S.O's and Tools 🛠
 
